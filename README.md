@@ -6,6 +6,6 @@ Ce dépôt est juste pour les tests en ligne
 
 Tout le monde peut fork se dépôt pour ses tests en ligne 
 
-pour vos modifications éffectué les sur la branches test_1 
+pour vos modifications éffectué les sur la branche TEST_BRANCHE
 cloner donc le dépôt faite vos modifications et faite des pulls requests
 
